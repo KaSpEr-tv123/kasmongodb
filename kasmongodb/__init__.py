@@ -1,1 +1,1 @@
-
+from .kasmongodb import KasMongo
