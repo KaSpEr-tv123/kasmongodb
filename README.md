@@ -28,3 +28,8 @@ print(mongo.distinct("name"))
 # Закрытие подключения
 mongo.close()
 ```
+установить:
+
+```bash
+pip install git+https://github.com/KaSpEr-tv123/kasmongodb.git
+```
